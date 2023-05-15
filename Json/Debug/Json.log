@@ -1,0 +1,7 @@
+﻿  json.cpp
+C:\Users\KING\Desktop\Json\json.cpp(284): warning C4715: “Json_space::jsonContext::get_Bool”: 不是所有的控件路径都返回值
+C:\Users\KING\Desktop\Json\json.cpp(297): warning C4715: “Json_space::jsonContext::get_Double”: 不是所有的控件路径都返回值
+C:\Users\KING\Desktop\Json\json.cpp(310): warning C4715: “Json_space::jsonContext::get_String”: 不是所有的控件路径都返回值
+C:\Users\KING\Desktop\Json\json.cpp(323): warning C4715: “Json_space::jsonContext::get_Array”: 不是所有的控件路径都返回值
+C:\Users\KING\Desktop\Json\json.cpp(336): warning C4715: “Json_space::jsonContext::get_Object”: 不是所有的控件路径都返回值
+  Json.vcxproj -> C:\Users\KING\Desktop\Json\Debug\Json.exe
